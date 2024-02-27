@@ -8,11 +8,11 @@
 ```go
 const (
 	// TODO: choose a human-readable part for your hyperchain
-	HRP = "Meta-Chain"
+	HRP = "Dev_Chain"
 	// TODO: choose a name for your hyperchain
-	Name = "Meta"
+	Name = "Developers"
 	// TODO: choose a token symbol
-	Symbol = "MT"
+	Symbol = "DC"
 )
 ```
 
@@ -30,11 +30,11 @@ import (
 
 const (
 	// TODO: choose a human-readable part for your hyperchain
-	HRP = "Meta-Chain"
+	HRP = "Dev_Chain"
 	// TODO: choose a name for your hyperchain
-	Name = "Meta"
+	Name = "Developers"
 	// TODO: choose a token symbol
-	Symbol = "MT"
+	Symbol = "DC"
 )
 
 var ID ids.ID
